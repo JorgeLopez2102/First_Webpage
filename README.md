@@ -1,1 +1,1 @@
-# Practice of the freecode camp responsive web course to learn web page design
+# Practice of the freecode camp responsive web course to learn web page design.
